@@ -1,0 +1,5 @@
+a) La différence:la commande "git pull"récupère les dernières modifications depuis un dépot distant et les fusionne avec votre branche locale 
+tandis que la commande"git fecth" récupère également les dernières modifications depuis un dépot distant,mais ne les fusionne pas automatiquement avec votre branche locale.
+b)Utiliser la commande "git stash"pour stocker temporaiment les modifications locales non validées puis la commande "git stash drop"pour supprimer le stash et annuler les modifications
+c) Utiliser la commande "git push origin --delete <nom-de -la -branche>"pour supprimer une branche distante dans git
+d)Utiliser la commande"git log <nom-du-fichier>" pour afficher l'historique des modifications pour un fichier spécifique dans git
